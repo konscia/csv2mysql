@@ -2,9 +2,9 @@
 
 return [
     'dbal-config' => [
-        'dbname' => 'finbra',
+        'dbname' => 'xxxx',
         'user' => 'root',
-        'password' => 'kpdc1990',
+        'password' => 'xxxx',
         'host' => 'localhost',
         'driver' => 'pdo_mysql',
         'charset'  => 'utf8',
