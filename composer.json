@@ -1,0 +1,14 @@
+{
+    "name": "root/csv2mysql",
+    "authors": [
+        {
+            "name": "Kaléu Caminha",
+            "email": "kaleu@vios.com.br"
+        }
+    ],
+    "require": {
+        "league/csv": "^9.1",
+        "doctrine/dbal": "^2.5",
+        "phpunit/php-timer": "^1.0"
+    }
+}
