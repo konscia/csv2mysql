@@ -1,3 +1,5 @@
 /vendor/
+/input/
 .idea
 config.php
+composer.lock

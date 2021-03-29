@@ -2,8 +2,8 @@
     "name": "konscia/csv2mysql",
     "authors": [
         {
-            "name": "Kaléu Caminha",
-            "email": "kaleu@vios.com.br"
+            "name": "Kaléu Puskas",
+            "email": "kaleu@konscia.me"
         }
     ],
     "require": {
